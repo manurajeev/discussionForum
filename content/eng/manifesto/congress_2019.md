@@ -5,6 +5,7 @@ draft: false
 type: post
 discussionId: "CONGRESS_2019"
 disable_comments: false
+description: "Manifesto of Indian National Congress for election of 2019 that held all over India, where Rahul Gandhi was president of Indian National Congress"
 categories:
 - manifesto
 tags:
@@ -13,7 +14,7 @@ tags:
 ---
 
 **Congress** was the first political party that released manifesto before *General Election of 2019*. This election will happen in 7 phases from 11 April to 19 May.
-Now lets dive into the manifesto of congress, let's see what it is offering to the public :-
+Now lets dive into the manifesto of congress and see what it is offering to the public :-
 
 1. #### INDUSTRY & JOB
    1. All of the _4 lakh vacancies as on 1 April 2019 in the Central Government, Central Public Sector Enterprises, Judiciary and Parliament_ will be filled before the end of March 2020. As a condition for devolution of funds to the healthcare and education sectors and to Panchayats and Municipalities, Congress will request State Governments to fill all vacancies, estimated at 20 lakh, in the 2 sectors and in local bodies.
@@ -84,4 +85,8 @@ Now lets dive into the manifesto of congress, let's see what it is offering to t
 
 These are the promises that INC made in general election of 2019.
 
+If you want to read what else promised by INC in year 2019, you can have a look at [their 2019 manifesto][1].
+
 Please leave your thoughts behind in the comment section below.
+
+[1]: https://s3.ap-south-1.amazonaws.com/thepolicy/manifesto/inc2019.pdf
